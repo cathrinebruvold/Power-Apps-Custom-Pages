@@ -1,2 +1,8 @@
 # Power-Apps-Custom-Pages
-Description and JavaScripts needed to trigger Custom Pages in Model-Driven Apps
+
+🚀 Overview
+This project demonstrates how to embed custom pages in Power Apps model-driven apps. 
+
+🦄 Content
+- How-to guide on how to embed custom pages in MDAs
+- JavaScripts used to trigger different kinds of custom pages in MDAs, such as dialogs and side panes. 
