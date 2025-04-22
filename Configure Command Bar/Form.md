@@ -1,4 +1,4 @@
-## ✨ Getting Started with Command Bar Configuration
+## ✨ Getting Started with Command Bar Configuration for a form
 
 To trigger the pop up dialog or side pane with the custom page, you will have to configure a command bar button to execute the JavaScript with the custom page reference
 
