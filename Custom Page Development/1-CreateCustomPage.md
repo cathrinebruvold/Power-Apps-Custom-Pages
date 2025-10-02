@@ -6,7 +6,7 @@ Learn how to **build Custom Pages** with focus on **responsive design**, and acc
 ## Overview 
 
 **🎯 Goal:** 
-- Build Custom Pages to be used as a full page, side pane and dialog in a Model-Driven App
+- Build custom pages to be used as a full page, side pane and dialog in a Model-Driven App
 - Connect to relevant datasources
 - Fetch record details using the Param() function and connecting to the record context
 - Develop responsive apps
@@ -17,9 +17,45 @@ Learn how to **build Custom Pages** with focus on **responsive design**, and acc
 - Access to datasources
 
 
-## Instructions
+## 💡 Instructions
 
-In this lab, you will do the following:
+- Exercise 1: **Create a landing page**
+- Exercise 2: **Create a side pane**
+- Exercise 3: **Create a dialog**
+- Exercise 4: **Build a responsive layout and style your pages**
+- Exercise 5: **Fetch record details from the model-driven app record**
+
+## ✍️ Exercise 1: Create a Landing Page and Configure Settings
+
+We will begin by creating the first custom **Landing Page** that will be presented to the users. This page will set the tone for the app and give users a clear "home base" to work from as the first thing they will see when opening the application.
+
+1. Navigate to the [Power Apps Maker portal](https://make.powerapps.com) and ensure you are in the **Developer** environment you created in Lab 0.  
+2. Select **Solutions** from the left navigation pane.  
+
+   ![Step 1](Images/Lab2-CreateCustomPages/E1_1.png)
+
+3. Select the solution you created in Lab 0.  
+
+   ![Step 2](Images/Lab2-CreateCustomPages/E1_2.png)
+
+4. In the solution, select **New** → **App** → **Page** from the command bar.  
+
+   ![Step 3](Images/Lab2-CreateCustomPages/E1_3.png)
+
+5. The canvas designer page will load. Click on **Settings** in the ribbon (sometimes settings will be located behind the three dots).  
+
+   ![Step 4](Images/Lab2-CreateCustomPages/E1_4.png)
+
+6. On the **General** tab, edit the name of the page to be **Landing Page** by clicking the edit pen and clicking **Save**.  
+
+   ![Step 5](Images/Lab2-CreateCustomPages/E1_5.png)
+
+7. Update the **Description** of the custom page to something relevant, such as:  
+   ```text
+   Landing page for the application
+
+
+You will be doing the following:
 
 **Build responsive Custom Pages with modern design elements**
 
